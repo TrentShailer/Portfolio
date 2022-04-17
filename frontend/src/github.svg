@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-500,-500)">
+        <g id="github" transform="matrix(0.22888,0,0,0.493415,495.422,15.082)">
+            <rect x="20" y="982.779" width="1310.73" height="304.004" style="fill:none;"/>
+            <g transform="matrix(3.75168,-0.152255,9.23697e-17,1.7536,-7756.34,429.623)">
+                <text x="2084.38px" y="632.452px" style="font-family:'Lobster-Regular', 'Lobster';font-size:128px;fill:none;stroke:rgb(66,66,66);stroke-width:19.39px;">Github</text>
+                <text x="2084.38px" y="632.452px" style="font-family:'Lobster-Regular', 'Lobster';font-size:128px;fill:rgb(255,236,179);">Github</text>
+            </g>
+        </g>
+    </g>
+</svg>
