@@ -11,7 +11,20 @@ export default function Logo(props: any) {
 				style={{
 					paddingTop: "20vh",
 				}}>
-				<img style={{ width: "min(95vh, 95vw)" }} src="logo.png" alt="" />
+				<picture>
+					<source
+						style={{ width: "min(95vh, 95vw)" }}
+						srcSet="logo-masked.webp"
+						type="image/webp"
+					/>
+					<source
+						style={{ width: "min(95vh, 95vw)" }}
+						srcSet="logo-masked.png"
+						type="image/png"
+					/>
+					<img style={{ width: "min(95vh, 95vw)" }} src="logo-masked.png" alt=""></img>
+				</picture>
+				{/* <img style={{ width: "min(95vh, 95vw)" }} src="logo.png" alt="" /> */}
 			</div>
 
 			<div
